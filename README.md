@@ -1,12 +1,12 @@
 
-Exp 6 Simulation of Optical Communication System
+## Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
 ## Objective
 Download and install OptiPerformer software on your computer and run a sample file.
 
 ---
 
-##Overview
+## Overview
 
 Optiwave introduces **OptiPerformer**, a free photonic design automation tool that harnesses the full power of OptiSystem and creates specific dynamic design scenarios for student use.
 
@@ -70,22 +70,16 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+*<img width="1470" height="864" alt="image" src="https://github.com/user-attachments/assets/e245e057-c00f-4d09-9a77-e91e6f79efdc" />*
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+*<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/61b32cc2-1d60-47fc-9e43-3c719fa2c412" />*
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+*Hence the Graphs are verified using Optiperformer*
